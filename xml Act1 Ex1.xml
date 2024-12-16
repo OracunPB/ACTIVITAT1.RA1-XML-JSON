@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?> <!--Inici de l'arxiu defineix versió i encoding-->
+<botiga> <!--Concepte general de la base xml-->
+    <product> <!--Producte nº1 i atributs-->
+        <codi>00-000-01</codi>
+        <nom>Champú coco</nom>
+        <descrip>Sabó capilar amb olor a coco</descrip>
+        <preu>7,99</preu>
+        <category>cap</category>
+        <stock>disponible</stock>
+        <imatge>http://data:image/jpeg;base64c/2Q==</imatge> <!--Link no funcional-->
+    </product>
+    <!--Separació per distingir diferents productes-->
+    <product> <!--Producte nº2 i atributs-->
+        <codi>00-000-02</codi>
+        <nom>Gel lavanda</nom>
+        <descrip>Sabó corporal hidratant amb olor a lavanda</descrip>
+        <preu>11,99</preu>
+        <category>cos</category>
+        <stock>disponible</stock>
+        <imatge>http://data:image/jpeg;base31h/7Z==</imatge> <!--Link no funcional-->
+    </product>
+    <!--Separació per distingir diferents productes-->
+    <product> <!--Producte nº3 i atributs-->
+        <codi>00-000-03</codi>
+        <nom>Desodorant DeepBlue</nom>
+        <descrip>Desodorant roll-on sense alumini amb olor DeepBlue</descrip>
+        <preu>9,99</preu>
+        <category>desodorant</category>
+        <stock>esgotat</stock>
+        <imatge>http://data:image/jpeg;base4039h/PPDB1==</imatge> <!--Link no funcional-->
+    </product>
+</botiga> <!--Tancament de l'arxiu xml-->
