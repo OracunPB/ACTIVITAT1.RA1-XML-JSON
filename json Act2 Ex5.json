@@ -1,0 +1,68 @@
+{
+    "pokemons": [
+      {
+        "id": "0448",
+        "nom": "Lucario",
+        "tipus": ["lucha", "acero"],
+        "pes": "54.0 kg",
+        "altura": "1.2 m",
+        "estadistiques": {
+          "velocitat": 4,
+          "fortalesa": 5,
+          "precisio": 5,
+          "resistencia": 3
+        },
+        "moviments": [
+          {
+            "nom": "Esfera aural",
+            "descripcio": "Dispara una esfera aural que no falla",
+            "potencia": 80,
+            "contacte": false
+          },
+          {
+            "nom": "Pulso dragón",
+            "descripcio": "L'enemic és atacat amb una ona de xoc generada per la boca oberta de l'usuari.",
+            "potencia": 85,
+            "contacte": false
+          }
+        ],
+        "imatge": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/d/d0/latest/20150621180604/Lucario.png/300px-Lucario.png",
+        "pre-evolucions": [
+          {
+            "id": "0447",
+            "nom": "Riolu",
+            "nivell": 0,
+            "condició": "Amistat a 160 + nivell de dia"
+          }
+        ]
+      },
+      {
+        "id": "0889",
+        "nom": "Zamazenta",
+        "tipus": ["lucha"],
+        "pes": "210.0 kg",
+        "altura": "2.9 m",
+        "estadistiques": {
+          "velocitat": 5,
+          "fortalesa": 5,
+          "precisio": 5,
+          "resistencia": 5
+        },
+        "moviments": [
+          {
+            "nom": "Embate Supremo",
+            "descripcio": "Atac que és súper efectiu contra Pokémon Dinamax",
+            "potencia": 120,
+            "contacte": true
+          }
+        ],
+        "imatge": "https://images.wikidexcdn.net/mwuploads/wikidex/b/bd/Zamazenta.png",
+        "evolucions": [
+          {
+            "Null": "Zamazenta no té evolucions ni és evolució de cap Pokémon"
+          }
+        ]
+      }
+    ]
+  }
+  
